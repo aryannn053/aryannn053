@@ -43,21 +43,3 @@ const aryan = {
  >
 > 🏆 Scored **85%** in Python Certification by CodinGame
  >
-
-### Social Profiles
-
-```javascript
-const socials = {
-  "coding": {
-    github: "https://github.com/mrbluebird2",
-    leetcode: "https://leetcode.com/aryantripathi05",
-    codechef: "https://codechef.com/users/aryant053",
-    codeforces: "https://codeforces.com/profile/aryan053",
-    atcoder: "https://atcoder.jp/users/TheBlueAryan",
-  },
-  "socialMedia": {
-    x: "https://twitter.com/aryantri13",
-    linkedin: "https://in.linkedin.com/in/badri-vishal/",
-    reddit: "https://www.reddit.com/user/ConstantAryan/",
-  }
-};
